@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently studying **Computer Science on UFPE**
 
-- 🌱 I’m currently learning Javascript **Javascript**
+- 🌱 I’m currently learning **Javascript**
 
 - 👯 I’m looking to collaborate on **web development**
 
 - 📫 How to reach me **@ianbraga_ on instagram**
 
-- ⚡ Fun fact **I can run 36.7 kmph**
+- ⚡ Fun fact **I can run 36.7 kmph⚡⚡**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
