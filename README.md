@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ian Gabriel Braga Trinta</h1>
 <h3 align="center">A passionate student from Brazil</h3>
 
+- 🔭 I’m currently studying **Computer Science on UFPE**
+
+- 🌱 I’m currently learning Javascript **Javascript**
+
+- 👯 I’m looking to collaborate on **web development**
+
 - 📫 How to reach me **@ianbraga_ on instagram**
 
 - ⚡ Fun fact **I can run 36.7 kmph**
