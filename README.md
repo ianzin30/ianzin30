@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I can run 36.7 kmph⚡**
 
-- 👽 Obtained my Advanced English certificate in Dubai
+- 👽 Obtained my Advanced English certificate in **Dubai**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
