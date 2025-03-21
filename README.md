@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently studying **Computer Science on UFPE**
 
-- 🌱 I’m currently learning **Javascript, Vue and fastAPI**
+- 🌱 I’m currently learning topics from **Data Science and AI**
 
-- 👯 I’m looking to collaborate on **web development**
+- 👯 I’m looking to collaborate on **Artificial Intelligence, Data Engineering or Data Science**
 
 - 📫 Reach me on **instagram, @ianbraga_**
 
