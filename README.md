@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently studying **Computer Science on UFPE**
 
-- 🌱 I’m currently learning topics from **Data Science and AI**
+- 🌱 I’m currently learning topics from **Data Science and AI Engineering**
 
 - 👯 I’m looking to collaborate on **Artificial Intelligence, Data Engineering or Data Science**
 
-- 📫 Reach me on **instagram, @ianbraga_**
+- 📫 Reach me on **https://www.linkedin.com/in/ian-gabriel-braga-trinta/**
 
 - ⚡ Fun fact **I can run 36.7 kmph⚡**
 
